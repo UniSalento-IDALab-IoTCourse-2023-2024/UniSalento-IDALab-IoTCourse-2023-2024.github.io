@@ -1,0 +1,50 @@
+---
+title: Dopetrope
+layout: landing
+---
+  
+	<body class="homepage">
+	{% include header_landing.html %}
+
+		<!-- Main -->
+			<div id="main-wrapper">
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+
+							<!-- Progetti degli studenti -->
+								<section>
+									<header class="major">
+										<h2>Progetti degli studenti</h2>
+									</header>
+									<div class="row projects-container">
+										{% assign projects = site.categories.projects | sort: 'title' %}
+										{% assign index = 0 %}
+  										{% for project in projects %}
+											{% assign index = index | plus: 1 %}
+											{% capture thecycle %}
+												{% cycle 'odd', 'even' %}
+											{% endcapture %}
+
+											{% if thecycle contains 'odd' %}
+												</div>
+												<div class="row">
+											{% endif %}
+											<div class="6u">
+												<section class="box single-project-container">
+													<a href="{{ project.site_url }}" class="image featured project_image"><span class="resizedImg"><img src="{{ project.img_url }}" alt="" /></span></a>
+													<header>
+														<h3>{{ project.title }}</h3>
+													</header>
+													<p>{{ project.description }}</p>
+													<footer>
+														<a href="{{ project.site_url }}" class="button alt">Maggiori informazioni</a>
+													</footer>
+												</section>
+											</div>
+										{% endfor %}
+									</div>
+								</section>
+
+						</div>
+					</div>
