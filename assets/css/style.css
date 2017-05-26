@@ -850,9 +850,11 @@
 		}
 
 
+
 .resizedImg img
 {
 	width: 100%;
-	height: 15vw;
+	height: 25vw;
 	overflow: hidden;
+	object-fit: contain;
 }
