@@ -12,10 +12,10 @@ layout: landing
 					<div class="row">
 						<div class="12u">
 
-							<!-- Progetti degli studenti -->
+							<!-- Student's projects -->
 								<section>
 									<header class="major">
-										<h2>Progetti degli studenti</h2>
+										<h2>Student's projects</h2>
 									</header>
 									<div class="row projects-container">
 										{% assign projects = site.categories.projects | sort: 'title' %}
@@ -38,8 +38,8 @@ layout: landing
 													</header>
 													<p>{{ project.description }}</p>
 													<footer>
-														<a href="{{ project.site_url }}" class="button alt">Dettagli progetto</a>
-														<a href="{{ project.project_url }}" class="button alt">Demo progetto</a>
+														<a href="{{ project.site_url }}" class="button alt">Project details</a>
+														<a href="{{ project.project_url }}" class="button alt">Project demo</a>
 													</footer>
 												</section>
 											</div>
