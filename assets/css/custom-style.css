@@ -29,8 +29,7 @@
 	text-align: center;
 }
 
-.project_buttons_container button
+.project_buttons_container a
 {
-	margin-left: auto;
-	margin-right: auto;
+	margin-bottom: 10px;
 }
