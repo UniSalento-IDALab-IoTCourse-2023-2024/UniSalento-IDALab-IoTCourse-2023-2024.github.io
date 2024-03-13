@@ -7,6 +7,9 @@ site_url: "https://unisalento-idalab-iotcourse-2022-2023.github.io/wot-project-2
 project_url1: "https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/wot-project-2022-2023-backend-RolloCotardo"
 project_url2: "https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/wot-project-2022-2023-Frontend-RolloCotardo"
 project_url3: "https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/wot-project-2022-2023-AndroidApplication-RolloCotardo"
+project_url4: "https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/wot-project-2022-2023-raspberryS-RolloCotardo"
+project_url5: "https://github.com/UniSalento-IDALab-IoTCourse-2022-2023/wot-project-2022-2023-raspberryT-RolloCotardo"
+project_url6: ""
 description: "L'obiettivo del progetto è la tutela della sicurezza di lavoratori in ambienti di lavoro rumorosi."
 ---
 
