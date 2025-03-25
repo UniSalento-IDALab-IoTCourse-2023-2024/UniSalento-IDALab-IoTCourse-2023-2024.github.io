@@ -1,5 +1,5 @@
 ---
-title: "C.A.R.E."
+title: "Sistema di notifica per DPI (cuffie smart) in ambienti industriali rumorosi"
 date: 2024-07-15 15:22:53 +0200
 categories: projects
 img_url: https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-presentation-PalumboPierri/images/architettura%202.png
