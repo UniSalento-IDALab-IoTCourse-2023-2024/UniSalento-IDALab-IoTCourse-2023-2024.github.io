@@ -2,7 +2,7 @@
 title: "Solar Production Forecast"
 date: 2024-07-15 15:22:53 +0200
 categories: projects
-img_url: https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-presentation-PalumboPierri/images/architettura%202.png
+img_url: https://github.com/GErroi/wot-SolarProductionForecast-Presentation-BelcuoreErroi/raw/main/proposta.png
 site_url: "https://github.com/GErroi/wot-SolarProductionForecast-Presentation-BelcuoreErroi.git"
 project_url1: "https://github.com/GErroi/wot-SolarProductionForecast-Backend-BelcuoreErroi.git"
 project_url2: "https://github.com/GErroi/wot-SolarProductionForecast-FrontEnd-BelcuoreErroi.git"
