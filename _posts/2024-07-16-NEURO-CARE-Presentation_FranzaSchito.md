@@ -1,6 +1,6 @@
 ---
 title: "NEURO-CARE"
-date: 2025-07-11 15:22:53 +0200
+date: 2024-07-16 15:22:53 +0200
 categories: projects
 img_url: https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-2023-2024-presentation-Franza-Schito/Dashboard.png
 site_url: "https://unisalento-idalab-iotcourse-2023-2024.github.io/wot-project-2023-2024-presentation-Franza-Schito/"
